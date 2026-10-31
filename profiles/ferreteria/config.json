@@ -1,0 +1,13 @@
+{
+  "nombre_negocio": "Ferretería [Nombre]",
+  "vendedor_nombre": "Cheo",
+  "telefono": "+58 414-0000000",
+  "direccion": "Av. principal, San Cristóbal",
+  "horario": "Lunes a sábado, 8AM-6PM",
+  "moneda": "USD",
+  "tasa_bs_usd": 70.50,
+  "metodos_pago": ["Efectivo", "Pago Móvil", "Punto de venta", "Zelle"],
+  "envio_disponible": true,
+  "costo_envio_usd": 3,
+  "validez_cotizacion_dias": 3
+}

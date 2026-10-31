@@ -1,0 +1,52 @@
+{
+  "instalaciones": [
+    {
+      "nombre": "Caney Grande",
+      "capacidad": 80,
+      "precio_regular": 150.00,
+      "precio_socio": 120.00,
+      "incluye": "80 sillas, parrillera y amplias áreas verdes",
+      "descripcion": "Ideal para celebraciones, parrandas y eventos corporativos con parrillera incluida."
+    },
+    {
+      "nombre": "Caney Pequeño",
+      "capacidad": 30,
+      "precio_regular": 80.00,
+      "precio_socio": 64.00,
+      "incluye": "30 sillas y 3 mesas (3 unidades disponibles)",
+      "descripcion": "Perfecto para reuniones íntimas, parrilladas familiares y cumpleaños de grupos pequeños. Disponemos de 3 unidades."
+    },
+    {
+      "nombre": "Salón de Fiestas Principal",
+      "capacidad": 150,
+      "precio_regular": 250.00,
+      "precio_socio": 200.00,
+      "incluye": "Acústica de primer nivel, aire acondicionado, 150 sillas y 15 mesas",
+      "descripcion": "El salón más grande y elegante del club. Ideal para bodas, quinceaños y eventos de gala."
+    },
+    {
+      "nombre": "Salón Secundario",
+      "capacidad": 60,
+      "precio_regular": 120.00,
+      "precio_socio": 96.00,
+      "incluye": "Aire acondicionado, 60 sillas y 6 mesas (2 unidades disponibles)",
+      "descripcion": "Espacios cerrados medianos para conferencias, asambleas o reuniones ejecutivas. 2 unidades disponibles."
+    },
+    {
+      "nombre": "Parque Infantil",
+      "capacidad": 50,
+      "precio_regular": 50.00,
+      "precio_socio": 40.00,
+      "incluye": "Acceso a columpios, toboganes y área de piñatas",
+      "descripcion": "Reservado para cumpleaños infantiles y piñatas al aire libre en ambiente seguro."
+    },
+    {
+      "nombre": "Equipo de Karaoke",
+      "capacidad": 0,
+      "precio_regular": 40.00,
+      "precio_socio": 32.00,
+      "incluye": "Sistema de sonido profesional, pantalla LED, 2 micrófonos inalámbricos, catálogo de canciones actualizado",
+      "descripcion": "Add-on disponible para cualquier espacio alquilado. También hay Noches de Karaoke abiertas al club los viernes. Precio por evento completo."
+    }
+  ]
+}

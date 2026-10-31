@@ -1,0 +1,90 @@
+{
+  "servicios": [
+    {
+      "nombre": "Pack de fotos básico",
+      "categoria": "fotos",
+      "precio_usd": 10,
+      "descripcion": "10 fotos exclusivas en alta calidad, entrega inmediata por Telegram"
+    },
+    {
+      "nombre": "Pack de fotos premium",
+      "categoria": "fotos",
+      "precio_usd": 20,
+      "descripcion": "25 fotos exclusivas + 1 video corto de regalo"
+    },
+    {
+      "nombre": "Video personalizado corto",
+      "categoria": "videos",
+      "precio_usd": 25,
+      "descripcion": "Video de 3-5 minutos con tu nombre o pedido especial"
+    },
+    {
+      "nombre": "Video personalizado largo",
+      "categoria": "videos",
+      "precio_usd": 45,
+      "descripcion": "Video de 10 minutos totalmente a tu gusto"
+    },
+    {
+      "nombre": "Videollamada 10 minutos",
+      "categoria": "videollamadas",
+      "precio_usd": 30,
+      "duracion_min": 10,
+      "descripcion": "Videollamada privada por Telegram, agendada"
+    },
+    {
+      "nombre": "Videollamada 20 minutos",
+      "categoria": "videollamadas",
+      "precio_usd": 55,
+      "duracion_min": 20,
+      "descripcion": "Videollamada extendida, agendada por adelantado"
+    },
+    {
+      "nombre": "Sexting (30 min)",
+      "categoria": "sexting",
+      "precio_usd": 20,
+      "descripcion": "Sesión de sexting caliente por 30 minutos, con audios y fotos en vivo"
+    },
+    {
+      "nombre": "Sexting (1 hora)",
+      "categoria": "sexting",
+      "precio_usd": 35,
+      "descripcion": "Sesión completa de 1 hora, audios + fotos + dedicatorias"
+    },
+    {
+      "nombre": "Novia Virtual — 1 semana",
+      "categoria": "novia_virtual",
+      "precio_usd": 40,
+      "descripcion": "Tu novia virtual por 7 días: buenos días, buenas noches, fotos diarias, atención exclusiva"
+    },
+    {
+      "nombre": "Novia Virtual — 1 mes",
+      "categoria": "novia_virtual",
+      "precio_usd": 120,
+      "descripcion": "Novia virtual por 30 días: mensajes diarios, fotos exclusivas, videollamadas semanales"
+    },
+    {
+      "nombre": "Dickrate",
+      "categoria": "dickrate",
+      "precio_usd": 15,
+      "descripcion": "Video reaccionando a tu foto con mi opinión honesta y picante"
+    },
+    {
+      "nombre": "Suscripción Canal VIP — 1 mes",
+      "categoria": "suscripciones",
+      "precio_usd": 15,
+      "descripcion": "Acceso al canal privado de Telegram con contenido diario"
+    },
+    {
+      "nombre": "Suscripción Canal VIP — 3 meses",
+      "categoria": "suscripciones",
+      "precio_usd": 35,
+      "descripcion": "Suscripción trimestral con descuento (ahorras $10)"
+    },
+    {
+      "nombre": "OnlyFans — acceso al perfil",
+      "categoria": "onlyfans",
+      "precio_usd": 10,
+      "descripcion": "Suscripción mensual a mi OnlyFans, contenido completo + DMs"
+    }
+  ]
+}

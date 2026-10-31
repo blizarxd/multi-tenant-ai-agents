@@ -1,0 +1,52 @@
+{
+  "nombre_negocio": "Automotor Repuestos",
+  "dueno_nombre": "Pedro",
+  "asistente_nombre": "Carlos",
+  "especialidad": "Repuestos Chevrolet y Ford",
+  "ubicacion": "La Concordia, San Cristóbal, Táchira",
+  "horario": {
+    "lunes":    "8:00 AM – 12:00 PM / 2:00 PM – 6:00 PM",
+    "martes":   "8:00 AM – 12:00 PM / 2:00 PM – 6:00 PM",
+    "miercoles":"8:00 AM – 12:00 PM / 2:00 PM – 6:00 PM",
+    "jueves":   "8:00 AM – 12:00 PM / 2:00 PM – 6:00 PM",
+    "viernes":  "8:00 AM – 12:00 PM / 2:00 PM – 6:00 PM",
+    "sabado":   "8:00 AM – 1:00 PM",
+    "domingo":  "CERRADO"
+  },
+  "metodos_pago": ["Pago Móvil", "Efectivo USD", "Zelle", "Binance"],
+  "numero_pago_movil": "",
+  "cedula_pago_movil": "",
+  "banco_pago_movil": "",
+  "zelle_email": "",
+  "garantia_dias": 30,
+  "marcas_auto": ["Chevrolet", "Ford"],
+  "modelos_chevrolet": ["Aveo", "Optra", "Captiva", "Spark", "N300", "Silverado", "LUV D-Max"],
+  "modelos_ford": ["Explorer", "F-150", "Escape", "Ranger", "Focus", "Mondeo", "Expedition"],
+  "stock_minimo_alerta": true,
+  "email_dueno": "",
+  "gmail_sender": "",
+  "gmail_app_password": "",
+  "google_sheets_folder": "Reportes Automotor",
+  "faq": [
+    {
+      "pregunta": "¿Tienen garantía los repuestos?",
+      "respuesta": "Sí, todos los repuestos tienen garantía de 30 días por defecto de fabricación. No cubre daños por mala instalación."
+    },
+    {
+      "pregunta": "¿Hacen instalación?",
+      "respuesta": "Vendemos los repuestos. Para la instalación te recomendamos el taller de confianza más cercano."
+    },
+    {
+      "pregunta": "¿Manejan repuestos originales o genéricos?",
+      "respuesta": "Trabajamos con marcas de calidad: NGK, TRW, KYB, LUK, Fram, Motorcraft, Mobil 1. Buena calidad a precio justo."
+    },
+    {
+      "pregunta": "¿Tienen repuestos para otros modelos además de Chevrolet y Ford?",
+      "respuesta": "Por ahora estamos especializados en Chevrolet y Ford. Pregúntame lo que necesitas y te confirmo si lo tenemos o lo podemos conseguir."
+    },
+    {
+      "pregunta": "¿Hacen envíos?",
+      "respuesta": "Estamos en La Concordia, San Cristóbal. Por el momento el retiro es en el local. Para clientes fuera coordina con el dueño."
+    }
+  ]
+}

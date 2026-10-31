@@ -1,0 +1,22 @@
+{
+  "nombre_empresa": "Hogar Táchira Bienes Raíces",
+  "asesor_nombre": "Andreína",
+  "asesor_humano": "Lic. Andreína Morales",
+  "telefono_asesor": "+58 414-7654321",
+  "horario_atencion": "Lunes a sábado, 8AM - 6PM",
+  "zona_cobertura": ["San Cristóbal", "Táriba", "Palmira", "La Concordia", "Pueblo Nuevo", "Las Lomas", "Los Pirineos", "La Florida", "Guásimos", "Centro", "Barrio Obrero"],
+  "tipos_propiedad": ["apartamento", "casa", "local", "terreno", "oficina", "galpón"],
+  "operaciones": ["venta", "alquiler"],
+  "comision_venta_pct": 5,
+  "comision_alquiler_meses": 1,
+  "moneda": "USD",
+  "umbral_lead_potencial": 6,
+  "umbral_lead_descartado": 3,
+  "duracion_visita_min": 60,
+  "google_calendar_id": "",
+  "google_sheets_folder": "CRM Inmobiliaria",
+  "email_dueno": "",
+  "gmail_sender": "",
+  "gmail_app_password": "",
+  "dueno_telegram_id": "0000000000"
+}

@@ -1,0 +1,24 @@
+{
+  "productos": [
+    {"sku": "CEM-50", "nombre": "Saco de cemento gris 50kg", "categoria": "Construcción", "precio_usd": 11, "stock": 80},
+    {"sku": "CEM-25", "nombre": "Saco de cemento blanco 25kg", "categoria": "Construcción", "precio_usd": 14, "stock": 30},
+    {"sku": "ARE-M3", "nombre": "Arena lavada (m³)", "categoria": "Construcción", "precio_usd": 25, "stock": 999},
+    {"sku": "PIE-M3", "nombre": "Piedra picada (m³)", "categoria": "Construcción", "precio_usd": 30, "stock": 999},
+    {"sku": "VAR-3/8", "nameAlt": "Cabilla 3/8", "nombre": "Cabilla 3/8 x 6m", "categoria": "Construcción", "precio_usd": 7.5, "stock": 200},
+    {"sku": "VAR-1/2", "nombre": "Cabilla 1/2 x 6m", "categoria": "Construcción", "precio_usd": 12, "stock": 150},
+    {"sku": "TUB-PVC-1/2", "nombre": "Tubo PVC 1/2'' x 6m", "categoria": "Plomería", "precio_usd": 4, "stock": 60},
+    {"sku": "TUB-PVC-1", "nombre": "Tubo PVC 1'' x 6m", "categoria": "Plomería", "precio_usd": 7, "stock": 45},
+    {"sku": "COD-PVC-1/2", "nombre": "Codo PVC 1/2''", "categoria": "Plomería", "precio_usd": 0.5, "stock": 300},
+    {"sku": "PIN-1GAL-BLA", "nombre": "Pintura caucho blanco 1 galón", "categoria": "Pinturas", "precio_usd": 18, "stock": 25},
+    {"sku": "PIN-1GAL-BEI", "nombre": "Pintura caucho beige 1 galón", "categoria": "Pinturas", "precio_usd": 18, "stock": 18},
+    {"sku": "ROL-9", "nombre": "Rolo de 9'' con felpa", "categoria": "Pinturas", "precio_usd": 4, "stock": 40},
+    {"sku": "BRO-3", "nombre": "Brocha 3''", "categoria": "Pinturas", "precio_usd": 2.5, "stock": 50},
+    {"sku": "TAL-CON-1/2", "nombre": "Taladro percutor 1/2'' 750W", "categoria": "Herramientas", "precio_usd": 65, "stock": 8},
+    {"sku": "DES-STAR", "nombre": "Juego destornilladores Stanley x6", "categoria": "Herramientas", "precio_usd": 22, "stock": 12},
+    {"sku": "MAR-MAQ", "nombre": "Martillo de uña 16oz", "categoria": "Herramientas", "precio_usd": 9, "stock": 25},
+    {"sku": "BOM-AGUA-1HP", "nombre": "Bomba de agua 1HP centrífuga", "categoria": "Plomería", "precio_usd": 145, "stock": 4},
+    {"sku": "FOC-LED-9W", "nombre": "Bombillo LED 9W luz blanca", "categoria": "Eléctrico", "precio_usd": 2.5, "stock": 200},
+    {"sku": "CAB-12-100", "nombre": "Cable AWG #12 x 100m", "categoria": "Eléctrico", "precio_usd": 60, "stock": 10},
+    {"sku": "INT-DOB", "nombre": "Interruptor doble Leviton", "categoria": "Eléctrico", "precio_usd": 4, "stock": 35}
+  ]
+}

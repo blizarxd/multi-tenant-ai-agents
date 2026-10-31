@@ -1,0 +1,37 @@
+# Tokens y secretos — NUNCA subir
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Bases de datos de clientes
+data/
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+
+# Material legacy archivado (no se versiona)
+archive/
+
+# Logs
+*.log
+logs/
+
+# Archivos temporales
+.antigravity/
+*.tmp
+scratch/
+
+# IDE
+.vscode/
+.idea/
+
+# Heartbeats del monitor
+data/heartbeat_*.json

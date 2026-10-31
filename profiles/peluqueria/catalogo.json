@@ -1,0 +1,17 @@
+{
+  "servicios": [
+    {"nombre": "Corte de cabello dama", "precio_usd": 8, "duracion_min": 45},
+    {"nombre": "Corte caballero", "precio_usd": 5, "duracion_min": 30},
+    {"nombre": "Corte niño", "precio_usd": 4, "duracion_min": 30},
+    {"nombre": "Tinte completo", "precio_usd": 35, "duracion_min": 120},
+    {"nombre": "Mechas / balayage", "precio_usd": 50, "duracion_min": 180},
+    {"nombre": "Cepillado / blower", "precio_usd": 10, "duracion_min": 45},
+    {"nombre": "Tratamiento capilar", "precio_usd": 18, "duracion_min": 60},
+    {"nombre": "Manicura", "precio_usd": 7, "duracion_min": 45},
+    {"nombre": "Pedicura", "precio_usd": 9, "duracion_min": 60},
+    {"nombre": "Manicura + Pedicura", "precio_usd": 14, "duracion_min": 90},
+    {"nombre": "Depilación cejas", "precio_usd": 4, "duracion_min": 15},
+    {"nombre": "Maquillaje social", "precio_usd": 25, "duracion_min": 60},
+    {"nombre": "Maquillaje + peinado novia", "precio_usd": 80, "duracion_min": 120}
+  ]
+}

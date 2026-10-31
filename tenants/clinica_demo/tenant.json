@@ -1,0 +1,15 @@
+{
+  "tenant_id": "clinica_demo",
+  "profile_type": "medico",
+  "display_name": "Consultorio Dr. González",
+  "location": "San Cristóbal, Táchira",
+  "owner": {
+    "name": "Demo Owner",
+    "phone": "",
+    "telegram_id": "0000000000"
+  },
+  "telegram_token_env": "TELEGRAM_TOKEN_CLINICA_DEMO",
+  "plan": "active",
+  "status": "active",
+  "created_at": "2026-05-01"
+}

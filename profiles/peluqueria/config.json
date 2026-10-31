@@ -1,0 +1,19 @@
+{
+  "nombre_negocio": "Peluquería [Nombre]",
+  "estilista_principal": "Sofía",
+  "telefono": "+58 414-0000000",
+  "direccion": "Av. principal, San Cristóbal",
+  "horario": {
+    "lunes": "9:00-18:00",
+    "martes": "9:00-18:00",
+    "miercoles": "9:00-18:00",
+    "jueves": "9:00-18:00",
+    "viernes": "9:00-19:00",
+    "sabado": "8:00-17:00",
+    "domingo": "cerrado"
+  },
+  "duracion_default_min": 45,
+  "moneda": "USD",
+  "metodos_pago": ["Efectivo", "Pago Móvil", "Zelle"],
+  "politica_anticipacion_horas": 2
+}

@@ -1,0 +1,75 @@
+{
+  "nombre": "Catálogo Automotor — Repuestos Chevrolet y Ford",
+  "moneda": "USD",
+  "productos": [
+
+    {"id":"CHV-AV-FIL-ACE","nombre":"Filtro de Aceite Aveo / Optra","marca_auto":"Chevrolet","modelos_compatibles":["Aveo","Optra","Astra"],"motor":"1.4L, 1.6L","categoria":"Filtros","referencia":"PH3600","precio_usd":4.50,"stock":14,"stock_minimo":5,"descripcion":"Filtro de aceite para motores 1.4L y 1.6L Chevrolet. Compatible con Aveo, Optra y Astra clásico."},
+
+    {"id":"CHV-AV-FIL-AIR","nombre":"Filtro de Aire Aveo / Optra","marca_auto":"Chevrolet","modelos_compatibles":["Aveo","Optra"],"motor":"1.4L, 1.6L","categoria":"Filtros","referencia":"CA9692","precio_usd":5.00,"stock":10,"stock_minimo":4,"descripcion":"Filtro de aire para Aveo y Optra. Mejora rendimiento del motor."},
+
+    {"id":"CHV-AV-FIL-COM","nombre":"Filtro de Combustible Aveo","marca_auto":"Chevrolet","modelos_compatibles":["Aveo"],"motor":"1.4L, 1.6L","categoria":"Filtros","referencia":"GF479","precio_usd":6.00,"stock":8,"stock_minimo":3,"descripcion":"Filtro de gasolina Aveo. Se recomienda cambio cada 20.000 km."},
+
+    {"id":"CHV-AV-BUJ","nombre":"Bujías NGK Aveo / Optra (juego x4)","marca_auto":"Chevrolet","modelos_compatibles":["Aveo","Optra","Spark"],"motor":"1.0L, 1.4L, 1.6L","categoria":"Encendido","referencia":"BKR5E-11","precio_usd":9.00,"stock":6,"stock_minimo":3,"descripcion":"Juego de 4 bujías NGK. Compatibles con Aveo, Optra y Spark."},
+
+    {"id":"CHV-AV-BUJ-IRD","nombre":"Bujías Iridio Aveo / Optra (juego x4)","marca_auto":"Chevrolet","modelos_compatibles":["Aveo","Optra"],"motor":"1.4L, 1.6L","categoria":"Encendido","referencia":"IZKR7B","precio_usd":24.00,"stock":4,"stock_minimo":2,"descripcion":"Bujías de iridio larga duración. Mayor rendimiento y ahorro de combustible."},
+
+    {"id":"CHV-AV-PAS-DEL","nombre":"Pastillas de Freno Delanteras Aveo","marca_auto":"Chevrolet","modelos_compatibles":["Aveo","Optra"],"motor":"todos","categoria":"Frenos","referencia":"TRW-GDB1377","precio_usd":18.00,"stock":7,"stock_minimo":3,"descripcion":"Juego de pastillas delanteras para Aveo. Marca TRW."},
+
+    {"id":"CHV-AV-PAS-TRA","nombre":"Pastillas de Freno Traseras Aveo","marca_auto":"Chevrolet","modelos_compatibles":["Aveo"],"motor":"todos","categoria":"Frenos","referencia":"TRW-GDB1378","precio_usd":14.00,"stock":6,"stock_minimo":3,"descripcion":"Juego de pastillas traseras para Aveo."},
+
+    {"id":"CHV-AV-DIS-DEL","nombre":"Disco de Freno Delantero Aveo (par)","marca_auto":"Chevrolet","modelos_compatibles":["Aveo","Optra"],"motor":"todos","categoria":"Frenos","referencia":"DF4348","precio_usd":38.00,"stock":3,"stock_minimo":2,"descripcion":"Par de discos delanteros ventilados para Aveo y Optra."},
+
+    {"id":"CHV-AV-COR-DIS","nombre":"Kit Correa de Distribución Aveo 1.6L","marca_auto":"Chevrolet","modelos_compatibles":["Aveo","Optra"],"motor":"1.6L","categoria":"Motor","referencia":"KTB459","precio_usd":45.00,"stock":4,"stock_minimo":2,"descripcion":"Kit completo correa de distribución + tensor + polea para Aveo 1.6L."},
+
+    {"id":"CHV-AV-BMW-AGU","nombre":"Bomba de Agua Aveo / Optra","marca_auto":"Chevrolet","modelos_compatibles":["Aveo","Optra"],"motor":"1.4L, 1.6L","categoria":"Refrigeración","referencia":"WP9462","precio_usd":22.00,"stock":5,"stock_minimo":2,"descripcion":"Bomba de agua para Aveo y Optra. Incluye junta."},
+
+    {"id":"CHV-AV-TERM","nombre":"Termostato Aveo / Optra","marca_auto":"Chevrolet","modelos_compatibles":["Aveo","Optra","Captiva"],"motor":"1.4L, 1.6L, 2.0L","categoria":"Refrigeración","referencia":"TH6871","precio_usd":8.00,"stock":9,"stock_minimo":3,"descripcion":"Termostato 82°C para motores Chevrolet. Incluye empaque."},
+
+    {"id":"CHV-CAP-FIL-ACE","nombre":"Filtro de Aceite Captiva / Silverado","marca_auto":"Chevrolet","modelos_compatibles":["Captiva","Silverado","N300"],"motor":"2.0L, 2.4L, 4.3L, 5.3L","categoria":"Filtros","referencia":"PH3980","precio_usd":5.50,"stock":8,"stock_minimo":3,"descripcion":"Filtro de aceite para motores de mayor cilindrada Chevrolet."},
+
+    {"id":"CHV-CAP-AMO-DEL","nombre":"Amortiguador Delantero Captiva (unidad)","marca_auto":"Chevrolet","modelos_compatibles":["Captiva"],"motor":"todos","categoria":"Suspensión","referencia":"KYB-335804","precio_usd":55.00,"stock":4,"stock_minimo":2,"descripcion":"Amortiguador delantero KYB para Captiva. Precio por unidad."},
+
+    {"id":"CHV-CAP-AMO-TRA","nombre":"Amortiguador Trasero Captiva (unidad)","marca_auto":"Chevrolet","modelos_compatibles":["Captiva"],"motor":"todos","categoria":"Suspensión","referencia":"KYB-343283","precio_usd":48.00,"stock":4,"stock_minimo":2,"descripcion":"Amortiguador trasero KYB para Captiva. Precio por unidad."},
+
+    {"id":"CHV-AV-CLU","nombre":"Kit de Clutch / Embrague Aveo","marca_auto":"Chevrolet","modelos_compatibles":["Aveo","Optra"],"motor":"1.4L, 1.6L","categoria":"Transmisión","referencia":"LUK-624337409","precio_usd":85.00,"stock":2,"stock_minimo":1,"descripcion":"Kit completo de embrague LUK para Aveo y Optra. Incluye disco, plato y cojinete."},
+
+    {"id":"CHV-AV-SEN-MAF","nombre":"Sensor MAF Aveo / Optra","marca_auto":"Chevrolet","modelos_compatibles":["Aveo","Optra"],"motor":"1.4L, 1.6L","categoria":"Electrónica","referencia":"25008319","precio_usd":32.00,"stock":3,"stock_minimo":2,"descripcion":"Sensor de flujo de masa de aire. Síntoma de falla: motor jalando, alto consumo."},
+
+    {"id":"CHV-AV-BOB","nombre":"Bobina de Encendido Aveo / Optra","marca_auto":"Chevrolet","modelos_compatibles":["Aveo","Optra"],"motor":"1.4L, 1.6L","categoria":"Encendido","referencia":"96253544","precio_usd":28.00,"stock":5,"stock_minimo":2,"descripcion":"Bobina de encendido individual para Aveo y Optra."},
+
+    {"id":"CHV-AV-ALT","nombre":"Alternador Aveo 65A","marca_auto":"Chevrolet","modelos_compatibles":["Aveo","Spark"],"motor":"1.0L, 1.4L","categoria":"Sistema Eléctrico","referencia":"TG15C-119","precio_usd":75.00,"stock":2,"stock_minimo":1,"descripcion":"Alternador remanufacturado 65A para Aveo y Spark. Garantía 6 meses."},
+
+    {"id":"FORD-FCS-FIL-ACE","nombre":"Filtro de Aceite Focus / Escape","marca_auto":"Ford","modelos_compatibles":["Focus","Escape","Mondeo"],"motor":"1.6L, 2.0L, 2.3L","categoria":"Filtros","referencia":"FL2016","precio_usd":5.00,"stock":11,"stock_minimo":4,"descripcion":"Filtro de aceite Ford para motores Duratec 1.6L, 2.0L y 2.3L."},
+
+    {"id":"FORD-FCS-FIL-AIR","nombre":"Filtro de Aire Focus / Escape 2.0L","marca_auto":"Ford","modelos_compatibles":["Focus","Escape"],"motor":"2.0L, 2.3L","categoria":"Filtros","referencia":"FA1834","precio_usd":7.00,"stock":8,"stock_minimo":3,"descripcion":"Filtro de aire para Focus y Escape 2.0L-2.3L."},
+
+    {"id":"FORD-FCS-BUJ","nombre":"Bujías Motorcraft Focus / Escape (juego x4)","marca_auto":"Ford","modelos_compatibles":["Focus","Escape","Mondeo"],"motor":"2.0L, 2.3L","categoria":"Encendido","referencia":"SP413","precio_usd":14.00,"stock":5,"stock_minimo":3,"descripcion":"Bujías originales Motorcraft para motores Ford 2.0L y 2.3L."},
+
+    {"id":"FORD-FCS-PAS-DEL","nombre":"Pastillas de Freno Delanteras Focus","marca_auto":"Ford","modelos_compatibles":["Focus","Mondeo"],"motor":"todos","categoria":"Frenos","referencia":"TRW-GDB1813","precio_usd":20.00,"stock":6,"stock_minimo":3,"descripcion":"Pastillas delanteras TRW para Focus y Mondeo."},
+
+    {"id":"FORD-FCS-DIS-DEL","nombre":"Disco de Freno Delantero Focus (par)","marca_auto":"Ford","modelos_compatibles":["Focus"],"motor":"todos","categoria":"Frenos","referencia":"DF7662","precio_usd":44.00,"stock":3,"stock_minimo":2,"descripcion":"Par de discos delanteros ventilados para Focus."},
+
+    {"id":"FORD-EXP-AMO-DEL","nombre":"Amortiguador Delantero Explorer (unidad)","marca_auto":"Ford","modelos_compatibles":["Explorer","Expedition"],"motor":"V6, V8","categoria":"Suspensión","referencia":"KYB-335063","precio_usd":62.00,"stock":3,"stock_minimo":2,"descripcion":"Amortiguador delantero KYB para Explorer y Expedition."},
+
+    {"id":"FORD-EXP-AMO-TRA","nombre":"Amortiguador Trasero Explorer (unidad)","marca_auto":"Ford","modelos_compatibles":["Explorer","Expedition"],"motor":"V6, V8","categoria":"Suspensión","referencia":"KYB-344081","precio_usd":55.00,"stock":3,"stock_minimo":2,"descripcion":"Amortiguador trasero KYB para Explorer y Expedition."},
+
+    {"id":"FORD-RAN-FIL-ACE","nombre":"Filtro de Aceite Ranger / F-150","marca_auto":"Ford","modelos_compatibles":["Ranger","F-150","Explorer"],"motor":"2.3L, 3.0L, V6, V8","categoria":"Filtros","referencia":"FL820S","precio_usd":6.00,"stock":9,"stock_minimo":4,"descripcion":"Filtro de aceite para motores Ford V6/V8 y Ranger 2.3L/3.0L."},
+
+    {"id":"FORD-RAN-COR-ACC","nombre":"Correa de Accesorios Ranger 2.3L","marca_auto":"Ford","modelos_compatibles":["Ranger","Escape"],"motor":"2.3L","categoria":"Motor","referencia":"6PK1563","precio_usd":12.00,"stock":6,"stock_minimo":3,"descripcion":"Correa serpentina de accesorios para Ranger 2.3L y Escape 2.3L."},
+
+    {"id":"FORD-FCS-BOB","nombre":"Bobina de Encendido Ford Focus 2.0L","marca_auto":"Ford","modelos_compatibles":["Focus","Escape"],"motor":"2.0L","categoria":"Encendido","referencia":"DG508","precio_usd":35.00,"stock":4,"stock_minimo":2,"descripcion":"Bobina de encendido individual Ford Focus y Escape 2.0L."},
+
+    {"id":"FORD-FCS-BMW-AGU","nombre":"Bomba de Agua Focus / Escape 2.0L","marca_auto":"Ford","modelos_compatibles":["Focus","Escape","Mondeo"],"motor":"2.0L, 2.3L","categoria":"Refrigeración","referencia":"WA854","precio_usd":28.00,"stock":4,"stock_minimo":2,"descripcion":"Bomba de agua para Focus y Escape 2.0L-2.3L. Incluye empaque."},
+
+    {"id":"FORD-FCS-SEN-O2","nombre":"Sensor de Oxígeno Ford Focus / Escape","marca_auto":"Ford","modelos_compatibles":["Focus","Escape","Mondeo"],"motor":"2.0L, 2.3L","categoria":"Electrónica","referencia":"NTK-25024","precio_usd":30.00,"stock":3,"stock_minimo":2,"descripcion":"Sensor lambda (upstream). Síntoma: alto consumo, luz Check Engine."},
+
+    {"id":"UNIV-LIQ-FRE","nombre":"Líquido de Frenos DOT4 (500ml)","marca_auto":"Universal","modelos_compatibles":["Chevrolet","Ford","todos"],"motor":"todos","categoria":"Fluidos","referencia":"DOT4-500","precio_usd":4.00,"stock":20,"stock_minimo":8,"descripcion":"Líquido de frenos DOT4 universal. Compatible con todos los modelos."},
+
+    {"id":"UNIV-REF","nombre":"Refrigerante / Anticongelante Verde 50% (1L)","marca_auto":"Universal","modelos_compatibles":["Chevrolet","Ford","todos"],"motor":"todos","categoria":"Fluidos","referencia":"REF-1L","precio_usd":3.50,"stock":18,"stock_minimo":6,"descripcion":"Refrigerante verde concentrado al 50%. Mezclar con agua destilada."},
+
+    {"id":"UNIV-ACE-5W30","nombre":"Aceite Motor 5W-30 Full Sintético (1L)","marca_auto":"Universal","modelos_compatibles":["Chevrolet Aveo","Chevrolet Optra","Ford Focus","Ford Escape"],"motor":"todos los de 1.4L a 2.4L","categoria":"Fluidos","referencia":"MOB1-5W30","precio_usd":9.50,"stock":15,"stock_minimo":6,"descripcion":"Aceite Mobil 1 Full Sintético 5W-30. Recomendado Aveo, Optra, Focus, Escape."},
+
+    {"id":"UNIV-ACE-5W20","nombre":"Aceite Motor 5W-20 Full Sintético (1L)","marca_auto":"Universal","modelos_compatibles":["Ford Focus","Ford Ranger","Ford F-150"],"motor":"V6, V8 Ford","categoria":"Fluidos","referencia":"MOB1-5W20","precio_usd":9.50,"stock":12,"stock_minimo":5,"descripcion":"Aceite Mobil 1 Full Sintético 5W-20. Recomendado para Ford V6/V8."}
+
+  ]
+}

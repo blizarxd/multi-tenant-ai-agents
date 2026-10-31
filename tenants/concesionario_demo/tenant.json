@@ -1,0 +1,16 @@
+{
+  "tenant_id":          "concesionario_demo",
+  "profile_type":       "concesionario",
+  "display_name":       "AutoLote Los Andes",
+  "location":           "La Concordia, San Cristóbal, Táchira",
+  "owner": {
+    "name":             "Carlos Ramírez",
+    "phone":            "+58 414-7771122",
+    "telegram_id":      ""
+  },
+  "telegram_token_env": "TELEGRAM_TOKEN_CONCESIONARIO_DEMO",
+  "channel":            "telegram",
+  "plan":               "demo",
+  "status":             "active",
+  "created_at":         "2026-05-14"
+}

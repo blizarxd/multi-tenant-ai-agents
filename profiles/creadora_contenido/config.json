@@ -1,0 +1,29 @@
+{
+  "nombre_negocio": "Mía",
+  "asistente_nombre": "Mía",
+  "horario": "24/7 (respondo siempre, aunque a veces tardo un toque)",
+  "metodos_pago": ["Pago Móvil", "Zelle", "Binance USDT", "PayPal", "Mercado Pago", "Nequi", "Transferencia Bancaria"],
+  "tasa_bs_usd": 40,
+  "datos_pago": {
+    "pago_movil": "0414-0000000 / V-00000000 / Banesco (0134)",
+    "zelle": "ejemplo@email.com — A NOMBRE DEL TITULAR",
+    "binance": "ID Binance: 000000000",
+    "paypal": "paypal.me/ejemplo",
+    "mercado_pago": "alias: cambiar_aqui (Argentina/México)",
+    "nequi": "300-0000000 (Colombia)",
+    "transferencia_bancaria": "Banco: CAMBIAR / Cuenta: 0000000000 / Titular: CAMBIAR"
+  },
+  "links": {
+    "onlyfans": "https://onlyfans.com/cambiar_aqui",
+    "canal_vip": "https://t.me/+cambiar_aqui",
+    "instagram": ""
+  },
+  "reglas_canal_vip": [
+    "Contenido exclusivo diario",
+    "Fotos y videos sin censura",
+    "Lives privados 2 veces por semana",
+    "Renovación mensual automática"
+  ],
+  "estilo": "cariñosa, juguetona, tachirense suave, usa 'amor', 'cielo', 'rey', 'mi vida'",
+  "edad_verificada": true
+}

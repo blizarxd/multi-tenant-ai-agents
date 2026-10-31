@@ -1,0 +1,46 @@
+{
+  "servicios": [
+    {
+      "nombre": "Consulta General",
+      "precio_usd": 15,
+      "duracion_min": 20,
+      "descripcion": "Evaluación médica completa, diagnóstico y tratamiento"
+    },
+    {
+      "nombre": "Consulta de Control",
+      "precio_usd": 10,
+      "duracion_min": 15,
+      "descripcion": "Seguimiento de paciente ya evaluado previamente"
+    },
+    {
+      "nombre": "Consulta Urgente",
+      "precio_usd": 20,
+      "duracion_min": 30,
+      "descripcion": "Atención prioritaria el mismo día — dolor fuerte, fiebre alta, etc."
+    },
+    {
+      "nombre": "Toma de Tensión Arterial",
+      "precio_usd": 3,
+      "duracion_min": 5,
+      "descripcion": "Medición de presión arterial con reporte"
+    },
+    {
+      "nombre": "Electrocardiograma (ECG)",
+      "precio_usd": 15,
+      "duracion_min": 15,
+      "descripcion": "Registro de actividad eléctrica del corazón, incluye interpretación"
+    },
+    {
+      "nombre": "Certificado Médico",
+      "precio_usd": 8,
+      "duracion_min": 10,
+      "descripcion": "Certificado de salud, reposo o aptitud laboral con sello y firma"
+    },
+    {
+      "nombre": "Interpretación de Exámenes",
+      "precio_usd": 10,
+      "duracion_min": 15,
+      "descripcion": "Revisión y explicación de resultados de laboratorio o imágenes"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "mensualidad": 16.50,
+  "descuento_socio": 0.20,
+  "admin_id": "0000000000",
+  "club_name": "Club Centro Latino",
+  "club_location": "San Cristóbal, Estado Táchira",
+  "horarios": {
+    "club": "Lunes a Domingo: 7:00 AM - 10:00 PM",
+    "piscina": "Lunes a Viernes: 8:00 AM - 6:00 PM | Sábado y Domingo: 7:00 AM - 7:00 PM",
+    "restaurantes": "11:00 AM - 9:00 PM",
+    "comida_rapida": "10:00 AM - 8:00 PM",
+    "fuente_soda": "9:00 AM - 6:00 PM"
+  },
+  "ticket_categorias": ["pagos", "instalaciones", "eventos", "locales", "sugerencia", "general"],
+  "recordatorio_dias": [1, 5, 10, 15]
+}

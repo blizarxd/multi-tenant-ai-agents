@@ -1,0 +1,94 @@
+{
+  "planes": [
+    {
+      "categoria": "Salud",
+      "nombre": "Plan Salud Individual",
+      "descripcion": "Hospitalización, cirugías, emergencias, medicamentos y consultas especializadas. Red de clínicas privadas en todo el país.",
+      "precio_desde_usd": 35,
+      "precio_hasta_usd": 120,
+      "vigencia": "Anual (renovable)",
+      "aseguradoras": ["Seguros Caracas", "Mapfre", "Mercantil Seguros"],
+      "ideal_para": "Personas entre 18 y 60 años que quieren protección médica completa"
+    },
+    {
+      "categoria": "Salud",
+      "nombre": "Plan Salud Familiar",
+      "descripcion": "Cobertura para todo el núcleo familiar (titular + cónyuge + hijos hasta 25 años). Incluye maternidad y pediatría.",
+      "precio_desde_usd": 80,
+      "precio_hasta_usd": 300,
+      "vigencia": "Anual (renovable)",
+      "aseguradoras": ["Seguros Caracas", "Mapfre", "La Previsora"],
+      "ideal_para": "Familias con hijos, parejas o personas con dependientes"
+    },
+    {
+      "categoria": "Vida",
+      "nombre": "Seguro de Vida con Ahorro",
+      "descripcion": "Protege a tu familia ante fallecimiento o invalidez total. Incluye componente de ahorro que puedes rescatar a plazo. Capital asegurado desde $10.000.",
+      "precio_desde_usd": 25,
+      "precio_hasta_usd": 150,
+      "vigencia": "5, 10, 15 o 20 años",
+      "aseguradoras": ["Seguros Caracas", "Mercantil Seguros", "Caser"],
+      "ideal_para": "Jefes de hogar, emprendedores, padres con hijos dependientes"
+    },
+    {
+      "categoria": "Vida",
+      "nombre": "Seguro de Vida Término",
+      "descripcion": "Protección pura por fallecimiento o accidente grave. Alta suma asegurada a prima baja. Ideal para deudas, hipotecas o protección del negocio.",
+      "precio_desde_usd": 15,
+      "precio_hasta_usd": 60,
+      "vigencia": "1 a 10 años",
+      "aseguradoras": ["Mapfre", "La Previsora"],
+      "ideal_para": "Personas jóvenes, deudores hipotecarios, socios de negocios"
+    },
+    {
+      "categoria": "Accidentes Personales",
+      "nombre": "Accidentes Personales 24/7",
+      "descripcion": "Cubre gastos médicos, invalidez parcial o total, y muerte accidental en cualquier parte del mundo. Sin restricciones de horario.",
+      "precio_desde_usd": 8,
+      "precio_hasta_usd": 40,
+      "vigencia": "Anual",
+      "aseguradoras": ["Seguros Caracas", "Mapfre", "Mercantil Seguros"],
+      "ideal_para": "Trabajadores de campo, deportistas, conductores, empleados de empresa"
+    },
+    {
+      "categoria": "Vehicular",
+      "nombre": "Seguro de Auto Todo Riesgo",
+      "descripcion": "Cubre daños propios (colisión, robo, incendio, desastres naturales) y responsabilidad civil. Incluye grúa y auto sustituto.",
+      "precio_desde_usd": 40,
+      "precio_hasta_usd": 200,
+      "vigencia": "Anual",
+      "aseguradoras": ["Seguros Caracas", "Mapfre", "La Previsora"],
+      "ideal_para": "Autos 0 km, vehículos financiados, flotas empresariales"
+    },
+    {
+      "categoria": "Vehicular",
+      "nombre": "Seguro de Auto Responsabilidad Civil",
+      "descripcion": "Cubre daños a terceros (personas y bienes ajenos) en caso de accidente de tránsito. Obligatorio para circular en Venezuela.",
+      "precio_desde_usd": 12,
+      "precio_hasta_usd": 35,
+      "vigencia": "Anual",
+      "aseguradoras": ["Seguros Caracas", "Mapfre", "Mercantil Seguros", "La Previsora"],
+      "ideal_para": "Todo vehículo en circulación — requisito legal"
+    },
+    {
+      "categoria": "PYME / Empresarial",
+      "nombre": "Seguro Empresarial Integral",
+      "descripcion": "Protege tu negocio contra incendio, robo, responsabilidad civil patronal, equipos electrónicos y pérdida de beneficios. Diseñado a medida.",
+      "precio_desde_usd": 60,
+      "precio_hasta_usd": 500,
+      "vigencia": "Anual",
+      "aseguradoras": ["Seguros Caracas", "Mapfre", "Mercantil Seguros"],
+      "ideal_para": "Comercios, restaurantes, oficinas, almacenes, clínicas, empresas de servicios"
+    },
+    {
+      "categoria": "PYME / Empresarial",
+      "nombre": "Seguro Colectivo de Empleados (HCM Empresarial)",
+      "descripcion": "HCM grupal para proteger a todos tus empleados. Prima corporativa menor al individual. Beneficio laboral que atrae y retiene talento.",
+      "precio_desde_usd": 20,
+      "precio_hasta_usd": 80,
+      "vigencia": "Anual (prima por empleado/mes)",
+      "aseguradoras": ["Seguros Caracas", "Mapfre", "La Previsora"],
+      "ideal_para": "Empresas desde 5 empleados en adelante"
+    }
+  ]
+}

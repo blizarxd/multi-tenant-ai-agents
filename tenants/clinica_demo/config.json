@@ -1,0 +1,60 @@
+{
+  "nombre_clinica": "Consultorio Dr. González",
+  "doctor_nombre": "Dr. González",
+  "doctor_genero": "masculino",
+  "asistente_nombre": "Mariana",
+  "especialidad": "Medicina General",
+  "horario": {
+    "lunes":     "7:00 AM – 12:00 PM  /  2:00 PM – 6:00 PM",
+    "martes":    "7:00 AM – 12:00 PM  /  2:00 PM – 6:00 PM",
+    "miercoles": "7:00 AM – 12:00 PM  /  2:00 PM – 6:00 PM",
+    "jueves":    "7:00 AM – 12:00 PM  /  2:00 PM – 6:00 PM",
+    "viernes":   "7:00 AM – 12:00 PM  /  2:00 PM – 6:00 PM",
+    "sabado":    "8:00 AM – 12:00 PM",
+    "domingo":   "CERRADO"
+  },
+  "duracion_consulta_min": 20,
+  "consulta_precio_usd": 15,
+  "metodos_pago": ["Pago Móvil Banesco", "Efectivo USD", "Zelle"],
+  "direccion": "Av. 19 de Abril, Edificio Medical Center, Piso 2 Of. 2B — San Cristóbal",
+  "email_doctor": "",
+  "google_calendar_id": "primary",
+  "gmail_sender": "",
+  "gmail_app_password": "",
+  "dueno_telegram_id": "0000000000",
+  "admin_telegram_id": "0000000000",
+  "faq": [
+    {
+      "pregunta": "¿Cuánto cuesta la consulta?",
+      "respuesta": "La consulta general es $15 USD. Se puede pagar en Pago Móvil Banesco, efectivo USD o Zelle."
+    },
+    {
+      "pregunta": "¿Hacen consultas de urgencia el mismo día?",
+      "respuesta": "Sí. Si tienes dolor fuerte, fiebre alta o es urgente, cuéntame y te agendamos hoy mismo."
+    },
+    {
+      "pregunta": "¿Manejan seguros médicos o HCM?",
+      "respuesta": "La consulta es de pago directo. El doctor puede emitir un recibo oficial con diagnóstico y sello para que lo presentes a tu seguro."
+    },
+    {
+      "pregunta": "¿Atienden niños?",
+      "respuesta": "Sí, el Dr. González atiende pacientes de todas las edades."
+    },
+    {
+      "pregunta": "¿Dónde están ubicados?",
+      "respuesta": "Estamos en la Av. 19 de Abril, Edificio Medical Center, Piso 2 Of. 2B, San Cristóbal. Te confirmamos la dirección exacta al agendar tu cita."
+    },
+    {
+      "pregunta": "¿Cuánto dura la consulta?",
+      "respuesta": "Aproximadamente 20 minutos. Las urgentes pueden extenderse según el caso."
+    },
+    {
+      "pregunta": "¿Hacen certificados médicos o reposos?",
+      "respuesta": "Sí. El certificado médico cuesta $8 USD y se entrega el mismo día."
+    },
+    {
+      "pregunta": "¿Necesito llevar exámenes previos?",
+      "respuesta": "Si tienes análisis de sangre u otros exámenes recientes (menos de 3 meses), tráelos — le ayudan al doctor a darte mejor atención."
+    }
+  ]
+}

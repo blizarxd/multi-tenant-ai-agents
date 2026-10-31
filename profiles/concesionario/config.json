@@ -1,0 +1,23 @@
+{
+  "nombre_negocio":            "Concesionario Demo",
+  "ubicacion":                 "San Cristóbal, Táchira",
+  "modalidad":                 "consignacion",
+  "asesor_nombre":             "Carlos",
+  "telefono_asesor":           "+58 414-0000000",
+  "horario":                   "Lunes a sábado, 8:00 AM a 5:00 PM",
+  "duracion_test_drive_min":   30,
+  "comision_venta_pct":        4,
+  "metodos_pago":              ["Efectivo USD", "Transferencia USD", "Trade-in"],
+  "garantia_dias":             0,
+  "umbral_lead_potencial":     6,
+  "umbral_lead_descartado":    3,
+  "google_calendar_id":        "",
+  "gmail_sender":              "",
+  "gmail_app_password":        "",
+  "email_dueno":               "",
+  "politicas": {
+    "no_revelar_precio_minimo":      true,
+    "no_dar_direccion_sin_test_drive": true,
+    "exigir_telefono_para_test_drive": true
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "tratamientos": [
+    {"nombre": "Consulta + diagnóstico", "precio_usd": 0, "duracion_min": 30, "nota": "Primera vez gratis"},
+    {"nombre": "Profilaxis (limpieza dental)", "precio_usd": 25, "duracion_min": 45},
+    {"nombre": "Resina simple (caries pequeña)", "precio_usd": 30, "duracion_min": 45},
+    {"nombre": "Resina compuesta (caries grande)", "precio_usd": 50, "duracion_min": 60},
+    {"nombre": "Endodoncia (tratamiento de conducto)", "precio_usd": 120, "duracion_min": 90},
+    {"nombre": "Extracción simple", "precio_usd": 25, "duracion_min": 30},
+    {"nombre": "Extracción cordal (muela del juicio)", "precio_usd": 80, "duracion_min": 60},
+    {"nombre": "Blanqueamiento dental", "precio_usd": 90, "duracion_min": 60},
+    {"nombre": "Corona porcelana", "precio_usd": 250, "duracion_min": 90},
+    {"nombre": "Brackets metálicos (mensual)", "precio_usd": 35, "duracion_min": 30, "nota": "Inicio: $200"},
+    {"nombre": "Prótesis parcial removible", "precio_usd": 180, "duracion_min": 60},
+    {"nombre": "Implante dental", "precio_usd": 600, "duracion_min": 120}
+  ]
+}

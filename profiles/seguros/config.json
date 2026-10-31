@@ -1,0 +1,15 @@
+{
+  "asistente_nombre": "Valeria",
+  "nombre_negocio": "Seguros Premier Táchira",
+  "ubicacion": "San Cristóbal, Estado Táchira",
+  "horario": "Lunes a Viernes 8:00 AM - 6:00 PM | Sábados 9:00 AM - 1:00 PM",
+  "telefono": "+58 276-000-0000",
+  "whatsapp": "+58 414-0000000",
+  "email": "info@segurespremier.com",
+  "metodos_pago": ["Zelle", "Pago Móvil", "Transferencia", "Efectivo USD"],
+  "moneda_principal": "USD",
+  "tasa_bs_usd": 40,
+  "aseguradoras_aliadas": ["Seguros Caracas", "Mapfre", "Mercantil Seguros", "La Previsora", "Caser"],
+  "tiempo_respuesta_cotizacion": "24 horas hábiles",
+  "garantia_atencion": "Asesor humano disponible en caso de siniestro 24/7"
+}

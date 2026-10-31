@@ -1,0 +1,56 @@
+{
+  "_nota": "Contratos de alquiler que administra la agencia. Cada tenant real reemplaza este archivo con los suyos. Los datos son de demostración.",
+  "contratos": [
+    {
+      "propiedad_id": "AP002",
+      "direccion": "Av. 19 de Abril, Edif. Cristal, Barrio Obrero",
+      "propietario": "María González",
+      "propietario_tel": "+58 414-1112233",
+      "inquilino": "Carlos Pérez",
+      "inquilino_tel": "+58 424-5556677",
+      "operacion": "alquiler",
+      "canon_usd": 230,
+      "deposito_usd": 460,
+      "dia_pago": 5,
+      "inicio": "2025-01-05",
+      "fin": "2026-01-05",
+      "estado": "al día",
+      "ultimo_pago": "2026-07-05",
+      "proximo_pago": "2026-08-05"
+    },
+    {
+      "propiedad_id": "CA004",
+      "direccion": "Urb. Las Lomas, calle principal, Casa 12",
+      "propietario": "José Ramírez",
+      "propietario_tel": "+58 416-9998877",
+      "inquilino": "Familia Sánchez Rojas",
+      "inquilino_tel": "+58 412-3334455",
+      "operacion": "alquiler",
+      "canon_usd": 480,
+      "deposito_usd": 960,
+      "dia_pago": 1,
+      "inicio": "2024-09-01",
+      "fin": "2026-09-01",
+      "estado": "al día",
+      "ultimo_pago": "2026-08-01",
+      "proximo_pago": "2026-09-01"
+    },
+    {
+      "propiedad_id": "LO002",
+      "direccion": "Av. Ferrero Tamayo, Local 3",
+      "propietario": "Inversiones Delgado C.A.",
+      "propietario_tel": "+58 414-7776655",
+      "inquilino": "Peluquería Estilo Único",
+      "inquilino_tel": "+58 426-1231234",
+      "operacion": "alquiler",
+      "canon_usd": 350,
+      "deposito_usd": 700,
+      "dia_pago": 10,
+      "inicio": "2025-06-10",
+      "fin": "2026-06-10",
+      "estado": "atrasado 1 mes",
+      "ultimo_pago": "2026-06-10",
+      "proximo_pago": "2026-07-10"
+    }
+  ]
+}

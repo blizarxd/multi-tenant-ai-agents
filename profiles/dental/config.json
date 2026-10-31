@@ -1,0 +1,12 @@
+{
+  "nombre_clinica": "Clínica Dental [Nombre]",
+  "doctor_principal": "Dr. Pérez",
+  "asistente_nombre": "Carolina",
+  "telefono": "+58 414-0000000",
+  "direccion": "Centro Médico, San Cristóbal",
+  "horario": "Lunes a viernes 8AM-5PM, sábado 9AM-1PM",
+  "moneda": "USD",
+  "metodos_pago": ["Efectivo", "Pago Móvil", "Zelle", "Punto de venta"],
+  "primera_consulta_gratis": true,
+  "duracion_consulta_min": 30
+}
